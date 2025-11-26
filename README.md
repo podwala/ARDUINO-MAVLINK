@@ -24,8 +24,11 @@ This project allows an Arduino to read MAVLink telemetry data from a drone fligh
 
 ## LED Colors
  Stabilize > Green 
+ 
  AltHold > Blue 
+ 
  Loiter > Cyan 
+ 
  Unknown > White 
 
 ## Baud Rate
